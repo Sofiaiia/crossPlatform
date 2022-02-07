@@ -1,0 +1,414 @@
+[
+  {
+    "id": "45904",
+    "name": "Alfons R\u00f6blom",
+    "first_name": "Alfons",
+    "last_name": "R\u00f6blom",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/alfons_roblom.jpg",
+      "id": "6438"
+    },
+    "state": "1"
+  },
+  {
+    "id": "4261",
+    "name": "Anders Eriksson",
+    "first_name": "Anders",
+    "last_name": "Eriksson",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/anders_eriksson.jpg",
+      "id": "6439"
+    },
+    "state": "1"
+  },
+  {
+    "id": "46303",
+    "name": "Annette Bergbo",
+    "first_name": "Annette",
+    "last_name": "Bergbo",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/thumbnail_annette_bergbo-2_0.jpg",
+      "id": "6785"
+    },
+    "state": "1"
+  },
+  {
+    "id": "210",
+    "name": "Annette Holmberg-Jansson",
+    "first_name": "Annette",
+    "last_name": "Holmberg-Jansson",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/thumbnail_annette_holmberg_jansson-2.jpg",
+      "id": "6494"
+    },
+    "state": "1"
+  },
+  {
+    "id": "46308",
+    "name": "Annika Hambrudd",
+    "first_name": "Annika",
+    "last_name": "Hambrudd",
+    "image": null,
+    "state": "1"
+  },
+  {
+    "id": "51",
+    "name": "Bert H\u00e4ggblom",
+    "first_name": "Bert",
+    "last_name": "H\u00e4ggblom",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/bert_haggblom.jpg",
+      "id": "6441"
+    },
+    "state": "1"
+  },
+  {
+    "id": "462",
+    "name": "Camilla Gunell",
+    "first_name": "Camilla",
+    "last_name": "Gunell",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/thumbnail_camilla_gunell.jpg",
+      "id": "6555"
+    },
+    "state": "1"
+  },
+  {
+    "id": "46307",
+    "name": "Christian Wikstr\u00f6m",
+    "first_name": "Christian",
+    "last_name": "Wikstr\u00f6m",
+    "image": null,
+    "state": "1"
+  },
+  {
+    "id": "4357",
+    "name": "Fredrik Karlstr\u00f6m",
+    "first_name": "Fredrik",
+    "last_name": "Karlstr\u00f6m",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/fredrik_karlstrom-2.jpg",
+      "id": "6442"
+    },
+    "state": "1"
+  },
+  {
+    "id": "46302",
+    "name": "Gyrid H\u00f6gman",
+    "first_name": "Gyrid",
+    "last_name": "H\u00f6gman",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/gyrid_hogman.jpg",
+      "id": "6889"
+    },
+    "state": "1"
+  },
+  {
+    "id": "202",
+    "name": "Harry Jansson",
+    "first_name": "Harry",
+    "last_name": "Jansson",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/harry_jansson.jpg",
+      "id": "6443"
+    },
+    "state": "1"
+  },
+  {
+    "id": "197",
+    "name": "Ingrid Zetterman",
+    "first_name": "Ingrid",
+    "last_name": "Zetterman",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/ingrid_zetterman-2.jpg",
+      "id": "6890"
+    },
+    "state": "1"
+  },
+  {
+    "id": "46301",
+    "name": "Jan Salm\u00e9n",
+    "first_name": "Jan",
+    "last_name": "Salm\u00e9n",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/thumbnail_jan_salmen-2.jpg",
+      "id": "6784"
+    },
+    "state": "1"
+  },
+  {
+    "id": "45898",
+    "name": "Jesper Josefsson",
+    "first_name": "Jesper",
+    "last_name": "Josefsson",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/jesper_josefsson.jpg",
+      "id": "6446"
+    },
+    "state": "1"
+  },
+  {
+    "id": "45894",
+    "name": "Jessy Eckerman",
+    "first_name": "Jessy",
+    "last_name": "Eckerman",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/jessy_eckerman.jpg",
+      "id": "6447"
+    },
+    "state": "1"
+  },
+  {
+    "id": "196",
+    "name": "John Holmberg",
+    "first_name": "John",
+    "last_name": "Holmberg",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/john_holmerg.jpg",
+      "id": "6891"
+    },
+    "state": "1"
+  },
+  {
+    "id": "206",
+    "name": "J\u00f6rgen Pettersson",
+    "first_name": "J\u00f6rgen",
+    "last_name": "Pettersson",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/thumbnail_jorgen_pettersson-2.jpg",
+      "id": "6551"
+    },
+    "state": "1"
+  },
+  {
+    "id": "4452",
+    "name": "J\u00f6rgen Strand",
+    "first_name": "J\u00f6rgen",
+    "last_name": "Strand",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/thumbnail_jorgen_strand%201.jpg",
+      "id": "6496"
+    },
+    "state": "1"
+  },
+  {
+    "id": "463",
+    "name": "Katrin Sj\u00f6gren",
+    "first_name": "Katrin",
+    "last_name": "Sj\u00f6gren",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/thumbnail_katrin_sjogren-2.jpg",
+      "id": "6556"
+    },
+    "state": "1"
+  },
+  {
+    "id": "217",
+    "name": "Lars H\u00e4ggblom",
+    "first_name": "Lars",
+    "last_name": "H\u00e4ggblom",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/lars_haggblom.jpg",
+      "id": "6449"
+    },
+    "state": "1"
+  },
+  {
+    "id": "45901",
+    "name": "Liz Mattsson",
+    "first_name": "Liz",
+    "last_name": "Mattsson",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/liz_mattsson.jpg",
+      "id": "6450"
+    },
+    "state": "1"
+  },
+  {
+    "id": "45902",
+    "name": "Marcus M\u00e5tar",
+    "first_name": "Marcus",
+    "last_name": "M\u00e5tar",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/marcus_matar.jpg",
+      "id": "6451"
+    },
+    "state": "1"
+  },
+  {
+    "id": "460",
+    "name": "Mika Nordberg",
+    "first_name": "Mika",
+    "last_name": "Nordberg",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/thumbnail_mika_nordberg.jpg",
+      "id": "6497"
+    },
+    "state": "1"
+  },
+  {
+    "id": "204",
+    "name": "Mikael Lindholm",
+    "first_name": "Mikael",
+    "last_name": "Lindholm",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/mikael_lindholm.jpg",
+      "id": "6437"
+    },
+    "state": "1"
+  },
+  {
+    "id": "464",
+    "name": "Nina Fellman",
+    "first_name": "Nina",
+    "last_name": "Fellman",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/thumbnail_nina_fellman.jpg",
+      "id": "6553"
+    },
+    "state": "1"
+  },
+  {
+    "id": "200",
+    "name": "Pernilla S\u00f6derlund",
+    "first_name": "Pernilla",
+    "last_name": "S\u00f6derlund",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/pernilla_soderlund.jpg",
+      "id": "6452"
+    },
+    "state": "1"
+  },
+  {
+    "id": "45899",
+    "name": "Rainer Juslin",
+    "first_name": "Rainer",
+    "last_name": "Juslin",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/rainer_juslin.jpg",
+      "id": "6453"
+    },
+    "state": "1"
+  },
+  {
+    "id": "45900",
+    "name": "Robert Mans\u00e9n",
+    "first_name": "Robert",
+    "last_name": "Mans\u00e9n",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/robert_mansen.jpg",
+      "id": "6454"
+    },
+    "state": "1"
+  },
+  {
+    "id": "4318",
+    "name": "Roger H\u00f6glund",
+    "first_name": "Roger",
+    "last_name": "H\u00f6glund",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/roger_hoglund.jpg",
+      "id": "6455"
+    },
+    "state": "1"
+  },
+  {
+    "id": "205",
+    "name": "Roger Nordlund",
+    "first_name": "Roger",
+    "last_name": "Nordlund",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/roger_nordlund.jpg",
+      "id": "6456"
+    },
+    "state": "1"
+  },
+  {
+    "id": "45897",
+    "name": "Simon Holmstr\u00f6m",
+    "first_name": "Simon",
+    "last_name": "Holmstr\u00f6m",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/simon_holmstrom.jpg",
+      "id": "6457"
+    },
+    "state": "1"
+  },
+  {
+    "id": "45903",
+    "name": "Simon P\u00e5vals",
+    "first_name": "Simon",
+    "last_name": "P\u00e5vals",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/simon_pavals.jpg",
+      "id": "6458"
+    },
+    "state": "1"
+  },
+  {
+    "id": "45896",
+    "name": "Stellan Egeland",
+    "first_name": "Stellan",
+    "last_name": "Egeland",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/stellan_egeland.jpg",
+      "id": "6459"
+    },
+    "state": "1"
+  },
+  {
+    "id": "219",
+    "name": "Stephan Toivonen",
+    "first_name": "Stephan",
+    "last_name": "Toivonen",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/stephan_toivonen.jpg",
+      "id": "6436"
+    },
+    "state": "1"
+  },
+  {
+    "id": "211",
+    "name": "Tage Silander",
+    "first_name": "Tage",
+    "last_name": "Silander",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/tage_silander.jpg",
+      "id": "6460"
+    },
+    "state": "1"
+  },
+  {
+    "id": "4258",
+    "name": "Torbj\u00f6rn Eliasson",
+    "first_name": "Torbj\u00f6rn",
+    "last_name": "Eliasson",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/torbjorn-5.jpg",
+      "id": "7665"
+    },
+    "state": "1"
+  },
+  {
+    "id": "207",
+    "name": "Veronica Th\u00f6rnroos",
+    "first_name": "Veronica",
+    "last_name": "Th\u00f6rnroos",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/veronica_thornroos.jpg",
+      "id": "6461"
+    },
+    "state": "1"
+  },
+  {
+    "id": "466",
+    "name": "Wille Valve",
+    "first_name": "Wille",
+    "last_name": "Valve",
+    "image": {
+      "url": "https://api.lagtinget.ax/sites/api.lagtinget.ax/files/wille_valve.jpg",
+      "id": "6892"
+    },
+    "state": "1"
+  }
+]
